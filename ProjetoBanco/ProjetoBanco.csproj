@@ -46,8 +46,11 @@
     <Compile Include="Cliente.cs" />
     <Compile Include="ContaCorrente.cs" />
     <Compile Include="Endereco.cs" />
+    <Compile Include="Funcionarios\Diretor.cs" />
+    <Compile Include="Funcionarios\Funcionario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RH\GerenciadorDePremio.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
